@@ -1,0 +1,3 @@
+<template>
+  <MoleculesHeader></MoleculesHeader>
+</template>
